@@ -258,8 +258,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding: 3rem 0;
-    /* margin-bottom: 3rem; */
+    padding: 3rem 5vw;
 }
 .nav-item-header{
     font-size: 16px;
