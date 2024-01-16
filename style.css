@@ -257,6 +257,7 @@ body{
     color: white;
     display: flex;
     flex-wrap: wrap;
+    gap: 5vh;
     justify-content: space-evenly;
     padding: 3rem 5vw;
 }
