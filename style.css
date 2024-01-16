@@ -257,9 +257,11 @@ body{
     color: white;
     display: flex;
     flex-wrap: wrap;
-    gap: 100px;
     justify-content: space-evenly;
     padding: 3rem 5vw;
+}
+.bottom-nav-item{
+    margin: 2vh 5vw;
 }
 .nav-item-header{
     font-size: 16px;
